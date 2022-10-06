@@ -1,0 +1,162 @@
+body {
+  padding: 30px;
+}
+
+div,
+h4 {
+  display: inline;
+}
+
+#navbarMonstera {
+}
+
+#navMid {
+  position: relative;
+  left: 200px;
+  font-family: Abel;
+  top: -15px;
+}
+
+h4 {
+  margin-right: 80px;
+  font-size: 30px;
+}
+
+#navEnd {
+  position: relative;
+  left: 300px;
+  top: -15px;
+}
+
+#navEnd div {
+  margin-right: 30px;
+}
+
+#monstera {
+  font-family: Allerta;
+  font-weight: bolder;
+  font-size: 120px;
+}
+
+#imgMain {
+  position: absolute;
+  width: 500px;
+  /* left: 1050px; */
+  right: 0px;
+  top: 100px;
+}
+
+li {
+  width: 600px;
+}
+
+li:nth-child(1) {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+li:nth-child(2) {
+  position: relative;
+  top: -80px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+li:nth-child(3) {
+  position: relative;
+  font-family: Abel;
+  font-weight: bold;
+  font-size: 25px;
+  top: -80px;
+}
+
+li:nth-child(4) {
+  position: relative;
+  font-family: Abel;
+  font-weight: bold;
+  font-size: 25px;
+  top: -80px;
+}
+
+#midWholePart121 h1 {
+  border: 2px solid #1a723f;
+  border-radius: 20px;
+  background-color: #1a723f;
+  width: 200px;
+  text-align: center;
+  position: relative;
+  left: 40px;
+  top: -30px;
+  color: #fff;
+  font-family: Abel;
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+midWholePart13 {
+  border: 10px solid red;
+}
+
+.midWholePart13Parts {
+  /* border: 2px solid black; */
+  display: block;
+  width: 180px;
+  font-family: Abel;
+}
+/* 
+.box {
+  position: relative;
+  left: 120px;
+  top: -70px;
+} */
+
+.midWholePart13Parts:nth-child(2) {
+  position: relative;
+  left: 190px;
+  top: -200px;
+}
+.midWholePart13Parts:nth-child(3) {
+  position: relative;
+  left: 380px;
+  top: -380px;
+}
+
+/* #light {
+  display: absolute;
+  left: 90px;
+} */
+
+.box1 {
+  position: relative;
+  left: 100px;
+  top: -90px;
+}
+
+#light {
+  position: relative;
+  left: 90px;
+}
+
+.box2 {
+  position: relative;
+  left: 140px;
+  top: -60px;
+}
+
+#care {
+  position: relative;
+  left: 160px;
+  top: 10px;
+}
+
+.box3 {
+  position: relative;
+  left: 240px;
+  top: -60px;
+}
+
+#midWholePart122 {
+  position: relative;
+  left: 210px;
+  top: -95px;
+}
